@@ -136,18 +136,13 @@ padding-bottom: 24px;
     line-height: 1.5;
     letter-spacing: 0.02em;
 
-    padding-top: 24px;
-    padding-bottom: 24px;
-}
+
 .address-link:hover,
 .address-link:focus{
     color: #404bbf;
 }
 /* ------------------------------Hero----------------------------*/
-.hero-container{
-    padding-top: 188px;
-    padding-bottom: 188px;
-}
+
 .page-hero{
     background: #2E2F42;
     padding-top: 188px;
@@ -283,7 +278,6 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 text-align: center;
 
-padding-bottom: 32px;
 }
 /*-----------------------------Portfolio-------------------------------*/
 .page-portfolio{
@@ -335,7 +329,7 @@ font-weight: 400;
 line-height: 1.5;
 letter-spacing: 0.02em;
 
-padding-bottom: 32px;
+
 }
 /* Footer */
 .footer{
