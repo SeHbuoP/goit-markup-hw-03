@@ -256,15 +256,14 @@ margin-bottom: 72px;
 .team-item{
     width: calc((100% - 72px) / 4);
     background-color: #fff;
+    border-radius: 0px 0px 4px 4px;  
 }
 
 .team-tumb{
 padding-top: 32px;
 padding-bottom: 32px;
 }
-.team-img{
-    border-radius: 0px 0px 4px 4px;  
-}
+
 .team-subtitle{
     color: #2E2F42;
 font-size: 20px;
